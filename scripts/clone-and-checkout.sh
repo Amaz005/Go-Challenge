@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the remote repository
-remote_repo_url="https://github.com/example/repo.git"
+remote_repo_url="https://github.com/Amaz005/Go-Challenge.git"
 
 # Set the name of the branch to checkout
 branch_name="develop"

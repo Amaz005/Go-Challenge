@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the name of the user to filter by
-user_name="amaz005"
+user_name="lương nhân đức"
 
 # Set the name of the repository to search in
 repo_name="Go-Challenge"
